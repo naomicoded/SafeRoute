@@ -1,0 +1,10 @@
+{
+  "name": "SafeRoute",
+  "description": "Moderner, vertrauenswürdiger Heimweg-Begleiter für Frauen. Bietet SOS-Alarm, Notfallkontakte, interaktiven Sicherheits-Timer und Live-Standortfreigabe.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
