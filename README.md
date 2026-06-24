@@ -20,16 +20,6 @@ View your app in AI Studio: https://ai.studio/apps/6d65004d-39df-4a8a-843f-fbd37
 
    ```bash
    npm install
-   ```bash
-
-
-
-
-
-
-
-
-
 
 
 # SafeRoute – Technische Dokumentation
